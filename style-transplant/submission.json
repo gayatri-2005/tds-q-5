@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese Edo-period woodblock print (ukiyo-e) in the style of Katsushika Hokusai. The scene shows a lone, blindfolded traveler in a traditional kimono and straw hat, navigating a steep, jagged mountain path that winds down toward a distant misty valley. Dramatic diagonal composition. Flat areas of unmodulated Prussian blue, deep ochre, and pale celadon. Bold, crisp black outlines. Visible woodgrain texture in the sky. No photographic shading, no 3D perspective, no text, no labels. The mountain is partially obscured by stylized, flat white mist, representing the local-only information of the descent. 1024px minimum. High authenticity.",
+  "model": "Gemini 3 Pro (Imagen 2.0)",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Edo-period woodblock prints (ukiyo-e)",
+  "tradition_period": "1603?1868",
+  "tradition_approach": "Targeting Hokusai-style diagonal composition, flat areas of unmodulated Prussian blue and ochre, bold black outlines, and the use of mist to show local-only visibility on a steep mountain path."
+}
