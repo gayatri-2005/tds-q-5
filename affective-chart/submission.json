@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic documentary-style photograph of a vast, turbulent, deep-slate grey ocean at twilight. The water is heavy and dark. In the center, a single, faded neon-orange life jacket floats empty, partially submerged. The ocean stretches to every horizon with no land or boat in sight. The mood is one of profound silence and irreversible loss. Sharp focal point on the texture of the orange fabric against the cold wet grey. No text, no labels, no legends, no axes, no icons. Cinematic lighting, overcast sky. High resolution, photorealistic texture.",
+  "model": "Gemini 3 Pro (Imagen 2.0)",
+  "dataset_name": "IOM Missing Migrants Project (Mediterranean Data)",
+  "dataset_url": "https://missingmigrants.iom.int/region/mediterranean",
+  "insight": "In 2023, the Mediterranean recorded over 3,000 migrant deaths and disappearances?the highest in six years?as the 'visible' traces of human lives are lost to the vast, cold water."
+}

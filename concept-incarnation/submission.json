@@ -1,0 +1,6 @@
+{
+  "prompt": "A high-end editorial photograph inside a sunlit tailor's workshop. A dark charcoal bespoke suit jacket hangs on a wooden mannequin. The jacket is covered in an obsessive, extreme number of hand-stitched seams, darts, and complex tucks that track every single tiny contour and unique imperfection of a specific human torso. Beside it, on a slightly different mannequin, the same jacket is being tried on but it pulls and puckers awkwardly, visibly failing to fit because its shape is too specific. No text, no labels, no diagrams, no charts. Natural light, shallow depth of field, warm wooden textures. Photorealistic, 8k resolution.",
+  "model": "Gemini 3 Pro (Imagen 2.0)",
+  "concept": "overfitting",
+  "metaphor": "Bespoke suit fitted to one unique posture, failing on any other body. The excessive tailoring maps to a model memorising training noise."
+}
