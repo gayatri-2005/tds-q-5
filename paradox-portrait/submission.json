@@ -1,0 +1,6 @@
+{
+  "prompt": "A wide-angle, eerie cinematic photograph of a vast field of identical sunflowers under a flat, grey sky. Every single sunflower is exactly the same height, perfectly aligned to a horizontal grid. Upon closer look, each flower is clamped by a cold, surgical-grade metal rod and a sterile clamp that forces it into this unnatural position. The flowers are stiff and lifeless, despite their bright yellow color. The field looks like a military formation rather than a garden. Deep sense of 'wrongness' and artificial perfection. No text, no labels, no graphs, no numbers, no chart elements. Desaturated, industrial tones except for the yellow of the flowers. High resolution, surreal atmosphere.",
+  "model": "Gemini 3 Pro (Imagen 2.0)",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "A field of identical sunflowers clamped to metal rods to achieve a 'perfect' uniform height. The 'measure' (height) has become a destructive 'target,' and the flowers are dead as a result."
+}
